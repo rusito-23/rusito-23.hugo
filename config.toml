@@ -19,10 +19,9 @@ pygmentscodefencesguesssyntax = true
 
 [params]
     author = "Igor Andruskiewitsch"
-    info = "Developer"
+    info = "Software Developer"
     description = "My personal website, blog & portfolio"
     keywords = "blog,developer,personal,portfolio"
-    avatarurl = "images/avatar.jpg"
 
     hideFooter = true
     hideCredits = false
@@ -67,10 +66,10 @@ pygmentscodefencesguesssyntax = true
     url = "mailto:i.andruskiewitsch23@gmail.com"
 
 [[params.social]]
-    name = "Resume"
+    name = "Curriculum Vitae"
     icon = "fa fa-file-pdf-o fa-2x"
     weight = 3
-    url = "https://github.com/rusito-23/resume/blob/master/resume.pdf"
+    url = "https://rusito-23.github.io/curriculum/Igor_Andruskiewitsch.pdf"
 
 [[params.social]]
     name = "SoundCloud"
